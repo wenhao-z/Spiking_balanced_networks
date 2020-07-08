@@ -7,6 +7,7 @@
 
 parsNet.T = 10e3; 
 
+tt = 1;
 parsNet.jxe = 25; % E synaptic weight
 % parsNet.jxi = 40; % I synaptic weight (absolute value)
 parsNet.ratiojie = 4; % The ratio between I synapse over E synapse (absolute value)
